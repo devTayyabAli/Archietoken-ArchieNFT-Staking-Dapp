@@ -1,0 +1,119 @@
+.main_back {
+  background: radial-gradient(
+    100.93% 100.93% at 50.83% 0.66%,
+    rgba(77, 0, 138, 0.85) 0,
+    #001355 49.08%,
+    #000535 100%
+  ) !important;
+  /* background-image: url("battle_staking.png"); */
+ 
+}
+.total_baxk {
+  padding: 1rem 2rem 0.5rem;
+  width: max-content;
+  min-width: 265px;
+  margin: 1rem auto;
+  box-shadow: rgb(116, 54, 128) 0px 0px 50px 0px;
+  min-height: 5.7rem;
+  color: white;
+  
+  
+  background: linear-gradient(270deg, rgba(6, 97, 0, 0.8) 0%, rgba(0, 82, 73, 0.8) 50%) padding-box padding-box, linear-gradient(45deg, rgb(137, 210, 243), rgb(166, 124, 255)) border-box border-box !important;
+  border: 3px solid transparent !important;
+border-radius: 12px !important;
+}
+
+.tab-css{
+background-color: rgb(5, 9, 90);
+width: max-content !important;
+margin: auto !important;
+border-radius: 50pc;
+border: 2px solid rgb(135, 103, 211) ;
+width: 30% !important;
+
+}
+.mak_flxx_bttn.Mui-selected{
+  background: linear-gradient(98.76deg, rgb(56, 195, 207) 0%, rgb(135, 103, 211) 100%);
+    border:2px solid  rgb(56, 195, 207);
+    color: rgb(255, 255, 255);
+    border-radius: 50pc !important;
+}
+
+.mak_flxx_bttn{
+  width: 50% !important;
+}
+
+.css-1wf8b0h-MuiTabs-flexContainer{
+    padding: 1px 2px 1px 2px !important;
+}
+.css-1aquho2-MuiTabs-indicator{
+    display: none !important;
+}
+.css-19kzrtu {
+  padding: 7px !important;
+}
+@media only screen and (max-width: 600px) {
+  .mak_flxx_bttn{
+    width: 50% !important;
+  }
+
+  .tab-css{
+    background-color: rgb(5, 9, 90);
+    width: max-content !important;
+    margin: auto !important;
+    border-radius: 50pc;
+    border: 2px solid rgb(135, 103, 211) ;
+    width: 90% !important;
+    }
+    .border_css{
+      background-color: rgb(5, 9, 90);
+    
+      margin: 0px !important;
+     border-radius: 12px !important;
+      border: 1px solid rgb(56, 195, 207) ;
+      box-shadow: 0 0 31px rgb(149 100 211 / 50%);
+      width: 100% !important;
+    }
+  
+}
+.border_css{
+  background-color: rgb(5, 9, 90);
+  width: max-content !important;
+  margin: auto !important;
+ border-radius: 12px !important;
+  border: 1px solid rgb(56, 195, 207) ;
+  box-shadow: 0 0 31px rgb(149 100 211 / 50%);
+  width: 50% !important;
+}
+.btn_css{
+  border-radius: 12px !important;
+}
+
+.css-16fwhjm {
+  position: relative;
+  flex: 1 1 0%;
+  border-radius: 1rem;
+  background: linear-gradient(270deg, rgba(6, 97, 0, 0.8) 0%, rgba(0, 82, 73, 0.8) 50%) padding-box padding-box, linear-gradient(45deg, rgb(137, 210, 243), rgb(166, 124, 255)) border-box border-box !important;
+  border: 3px solid transparent !important;
+}
+.css-1mqe0od {
+  font-weight: 900 !important;
+  font-size: 0.875rem !important;
+  color: #fff !important;
+  text-transform: uppercase !important;
+  text-align: center !important;
+}
+.css-1snxiwx {
+  vertical-align: baseline;
+  font-weight: 600;
+  font-size: 1.5rem;
+  font-variant-numeric: proportional-nums;
+  display: flex;
+  width: max-content;
+  margin-inline: auto;
+}
+.css-je7iwd {
+  display: flex;
+  width: max-content;
+  margin-inline: auto;
+}

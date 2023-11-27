@@ -1,0 +1,142 @@
+
+.mx_buttn{
+    background-color: transparent;
+    /* border: 1px solid #4c5199; */
+    border: none;
+    padding: 6px 0px !important;
+    cursor: pointer !important ;
+}
+
+.min_st_rt{
+
+    font-size:14px  ;
+}
+
+.lst_btnn{
+    background: linear-gradient(#181652,#181652) padding-box,linear-gradient(45deg,#89d2f3,#a67cff) border-box!important;
+    border: 2px solid transparent!important;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700!important;
+    font-style: italic;
+}
+
+.ariia{
+    width: 60%;
+    border-left: 1px solid rebeccapurple;
+    border-right:1px solid rebeccapurple;
+    border-top: none !important;
+    border-bottom: none !important;
+    background: inherit !important;
+}
+.typ_area{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 6px;
+}
+
+.bord_clas{
+    background: linear-gradient(rgba(24,22,82,.3),rgba(24,22,82,.3))!important;
+    border: 1px solid #89d2f3;
+    box-shadow: 0 0 31px rgb(149 100 211 / 50%);
+    backdrop-filter: blur(8px);
+    border-radius: 14px;
+}
+
+.for_dsn{
+    width: 50% !important;
+  
+    /* font-weight: var(--chakra-fontWeights-bold); */
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 12px !important;
+    border-top: none !important;
+    border-left: none !important;
+    text-transform: uppercase !important;
+    font-weight: 700 !important;
+    color: white !important;
+}
+.for_dsn_end{
+    width: 50% !important;
+    /* color: rgb(136, 209, 242); */
+    font-weight: var(--chakra-fontWeights-bold);
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 12px !important;
+    border-top: none !important;
+    border-left: none !important;
+    text-transform: uppercase !important;
+    font-weight: 700 !important;
+    color: white !important;
+}
+
+.for_dsn.Mui-selected{
+    color: rgb(136, 209, 242);
+    /* font-weight: var(--chakra-fontWeights-bold); */
+    background: linear-gradient(90deg, rgba(76, 81, 153, 0.7) 0%, rgb(22, 24, 56) 100%);
+    
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 12px !important;
+    border-top: none !important;
+    border-left: none !important;
+    font-weight: 800 !important;
+    text-transform: uppercase !important;
+}
+
+.for_dsn_end.Mui-selected{
+    color: rgb(136, 209, 242);
+    font-weight: var(--chakra-fontWeights-bold);
+    background: linear-gradient(90deg, rgba(76, 81, 153, 0.7) 0%, rgb(22, 24, 56) 100%);
+    font-weight: 800 !important;
+    border-top-right-radius: 12px !important;
+    border-top-left-radius: 0px !important;
+    border-top: none !important;
+    border-left: none !important;
+    
+    text-transform: uppercase !important;
+}
+
+
+/* .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+    color: rgb(136, 209, 242);
+    font-weight: var(--chakra-fontWeights-bold);
+    background: linear-gradient(90deg, rgba(76, 81, 153, 0.7) 0%, rgb(22, 24, 56) 100%);
+    
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 12px !important;
+    border-top: none !important;
+    border-left: none !important;
+    
+    text-transform: uppercase !important;
+} */
+
+/* .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+    padding: 0px 83px !important;
+    color: rgb(136, 209, 242);
+    font-weight: var(--chakra-fontWeights-bold);
+    background: linear-gradient(90deg, rgba(76, 81, 153, 0.7) 0%, rgb(22, 24, 56) 100%);
+
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 12px !important;
+    border-top: none !important;
+    border-left: none !important;
+    text-transform: uppercase !important;
+} */
+
+
+.css-heg063-MuiTabs-flexContainer{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.my_balnc{
+    margin-bottom: 11px !important;
+    font-size: 12px !important;
+}
+
+@media only screen and (max-width:600px) {
+    .typ_area{
+        display: flex;
+    }
+    .ariia{
+        width: 55%;
+    }
+}
