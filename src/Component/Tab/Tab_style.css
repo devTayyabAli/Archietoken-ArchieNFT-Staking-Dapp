@@ -1,0 +1,23 @@
+.staking {
+    padding: 1rem 0;
+    max-width: 450px;
+    margin: auto;
+}
+.staking__heading {
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 1.25rem;
+}
+.staking__apy, .staking__tvl {
+    display: flex;
+    /* width: -webkit-max-content; */
+    /* width: max-content; */
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0.5rem 1rem;
+}
+.staking__tvl {
+    flex-direction: column;
+}
